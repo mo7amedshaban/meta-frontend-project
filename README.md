@@ -9,12 +9,7 @@
 
 ## 🚀 Live Demo
 🔗 [View on GitHub Pages](https://mo7amedshaban.github.io/meta-frontend-project/)  
-🔗 [View on Vercel](https://meta-frontend-project.vercel.app/)
 
----
-
-## 📂 Repository
-[GitHub Repo](https://github.com/mo7amedshaban/meta-frontend-project)
 
 ---
 
@@ -43,3 +38,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/mo7amedshaban/meta-frontend-project.git
 cd meta-frontend-project
+npm start
+npm run build
+
